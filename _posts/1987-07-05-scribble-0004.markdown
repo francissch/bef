@@ -2,7 +2,7 @@
 layout: post
 title: "산책을 하며"
 img: IMG_7425.png # Add image post (optional)
-date: 1987-07-00
+date: 1987-07-05
 description: # Add post description (optional)
 tag: [산책을 하며, 끄적거림, scribbles]
 ---
