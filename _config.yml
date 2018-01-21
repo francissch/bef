@@ -3,7 +3,7 @@ title: Francis Sch. E
 description: > # this means to ignore newlines until "baseurl:"
   IT Mystery Novel
 permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "francissch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
@@ -15,8 +15,8 @@ banner-desc: # add banner description
 author-pic: face.jpg # your photo
 author-name: Francis Sch. E
 about-author: # about author
-email: your-email@domain.com # your email
-phone: (496)-169-6557 # your pnone number
+email: francissch.lee@gmail.com # your email
+phone: # your pnone number
 website: https://francissch.github.io # you website
 
 # Social link
