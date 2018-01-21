@@ -2,7 +2,7 @@
 layout: post
 title: "얼굴"
 img: FullMoon-SnS.png # Add image post (optional)
-date: 2016-07-01
+date: 2017-02-14
 description: # Add post description (optional)
 tag: [얼굴, 끄적거림, scribbles]
 ---
