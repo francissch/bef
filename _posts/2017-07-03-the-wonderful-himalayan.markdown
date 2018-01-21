@@ -1,15 +1,30 @@
 ---
 layout: post
-title: "My first trip: The wonderful Himalayan"
-img: himalayan.jpg # Add image post (optional)
-date: 2017-07-03 12:55:00 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Travel, Blogging, Mountains]
+title: "기다리다"
+img: peach-blossom.png # Add image post (optional)
+date: 1987-04-25
+description: # Add post description (optional)
+tag: [기다리다, 끄적거림, scribbles]
 ---
-Flexitarian hella quinoa, stumptown chillwave squid heirloom pop-up church-key. Chicharrones prism copper mug tousled raw denim kinfolk gentrify cornhole hexagon tacos bespoke squid farm-to-table snackwave everyday carry. Vaporware chicharrones activated charcoal jianbing pok pok. Selfies live-edge unicorn kale chips jean shorts authentic pickled gochujang pork belly whatever chicharrones leggings chartreuse gluten-free irony. Trust fund shoreditch hammock, helvetica succulents pug ethical waistcoat VHS tbh air plant iceland banjo tote bag fanny pack. Ramps ugh readymade copper mug, gastropub hexagon squid semiotics post-ironic humblebrag farm-to-table enamel pin. Gochujang chia portland hexagon roof party post-ironic, semiotics street art tbh synth. Air plant vinyl sustainable pork belly. Chicharrones cronut raw denim listicle flexitarian franzen. Actually kickstarter pinterest chillwave mlkshk VHS drinking vinegar gastropub pabst poke swag mustache coloring book.
+> 기다리다
+<br/><br/>
+   
+맴돌다 지쳐 구부러진 마음으로 그대 앞에 앉은들<br/>
+내 무엇 할 수 있으리오.
+   
+초침의 가쁜 숨소리.<br/>
+말없이 누워있는 전화기.<br/>
+내 차마 미워할 수 있으리오.
+   
+막막히 기다리던 가슴앓이에 홀로 서성거린들<br/>
+내 어찌 아파할 수 있으리오.
+   
+바람의 노랫소리에 도화잎은 함부로 춤추고<br/>
+차가워지는 어둠 속으로 스러져 가는 발걸음.<br/>
+<br/><br/><br/>   
+   
+일천구백팔십칠년사월이십오일 토요일에 끄적거리다.<br/>
 
-Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
-
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
-
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+잠을 도통 이루지 못하고 한참을 뒤척거리다가 잠들기를 포기하고, 오래된 책들을 한 권씩 먼지를 털어내던 와중에 정희성 선생님이 집필하셨던 “한국현대시의 이해”라는 책갈피에서 예전에 끄적거렸던 흔적들을 찾게 되었다. 이것들을 읽어 보고, 회상해 보고, 유추하다 보니 어느새 환하게 동이 트고야 말았다.
+   
+이천십육년유월이십팔일 아침볕과 마주하며......
