@@ -5,6 +5,9 @@ img: peach-blossom.png # Add image post (optional)
 date: 1987-04-25
 description: # Add post description (optional)
 tag: [기다리다, 끄적거림, scribbles]
+sitemap :
+  changefreq : weekly
+  priority : 1.0
 ---
 > 기다리다
 <br/><br/>
