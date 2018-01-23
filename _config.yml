@@ -1,7 +1,6 @@
 logo: # add logo name
 title: Francis Sch. E
-description: > # this means to ignore newlines until "baseurl:"
-  IT Mystery Novel
+description: IT Mystery Novel # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://francissch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
