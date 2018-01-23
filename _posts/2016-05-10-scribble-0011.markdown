@@ -5,9 +5,12 @@ img: Rain-Umbrella-1.png # Add image post (optional)
 date: 2016-05-10
 description: # Add post description (optional)
 tag: [비 내리다, 끄적거림, scribbles]
+sitemap :
+  changefreq : weekly
+  priority : 1.0
 ---
 > 비, 내리다
-<br/>
+<br/><br/>
 
 비 나리는 우산 속,<br/>
 조용히 흘러드는 음악.
