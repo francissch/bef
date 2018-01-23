@@ -5,9 +5,12 @@ img: subway-01.png # Add image post (optional)
 date: 2013-09-09
 description: # Add post description (optional)
 tag: [5-4, 끄적거림, scribbles]
+sitemap :
+  changefreq : weekly
+  priority : 1.0
 ---
 > 5-4
-<br/>
+<br/><br/>
 
 1992년, 시시로,<br/>
 아침 8시10분, 4호선 쌍문역 5-4에는 즐거운 기다림이 있었다.
