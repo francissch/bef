@@ -5,6 +5,9 @@ img: ROAD.png # Add image post (optional)
 date: 2016-07-01
 description: # Add post description (optional)
 tag: [가지 않은 길, 가지 않는 길, 끄적거림, scribbles]
+sitemap :
+  changefreq : weekly
+  priority : 1.0
 ---
 > 가지 않은 길, 가지 않는 길
 <br/><br/>
