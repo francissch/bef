@@ -5,6 +5,9 @@ img: IMG_7465.png # Add image post (optional)
 date: 2013-05-12
 description: # Add post description (optional)
 tag: [해 뜰 녘, 끄적거림, scribbles]
+sitemap :
+  changefreq : weekly
+  priority : 1.0
 ---
 > 해 뜰 녘
 <br/><br/><br/>
