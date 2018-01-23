@@ -5,6 +5,9 @@ img: FullMoon-SnS.png # Add image post (optional)
 date: 2017-02-14
 description: # Add post description (optional)
 tag: [얼굴, 끄적거림, scribbles]
+sitemap :
+  changefreq : weekly
+  priority : 1.0
 ---
 > 얼굴 - 보고 싶은 얼굴
 <br/><br/>
