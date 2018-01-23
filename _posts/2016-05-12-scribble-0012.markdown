@@ -5,9 +5,12 @@ img: grandfather-clock.png # Add image post (optional)
 date: 2016-05-12
 description: # Add post description (optional)
 tag: [시간에 안겨서, 끄적거림, scribbles]
+sitemap :
+  changefreq : weekly
+  priority : 1.0
 ---
 > 시간에 안겨서......
-<br/>
+<br/><br/>
 
 내 앞에서는 청초하게 다소곳이 있던 시간.<br/>
 
