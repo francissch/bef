@@ -5,6 +5,9 @@ img: CigarBar-1-2-1.png # Add image post (optional)
 date: 1989-10-11
 description: # Add post description (optional)
 tag: [무제, 끄적거림, scribbles]
+sitemap :
+  changefreq : weekly
+  priority : 1.0
 ---
 > 무제
 <br/><br/>
@@ -25,4 +28,3 @@ tag: [무제, 끄적거림, scribbles]
    
 첫 끄적거림 : 일천구백팔십구년 가을녘에……<br/>
 다시 끄적거림 : 이천십육년 오월에.
-
