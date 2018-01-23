@@ -5,6 +5,9 @@ img: IMG_0616.jpg # Add image post (optional)
 date: 2013-05-12
 description: # Add post description (optional)
 tag: [빈자리, 끄적거림, scribbles]
+sitemap :
+  changefreq : weekly
+  priority : 1.0
 ---
 > 빈자리
 <br/>
