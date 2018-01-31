@@ -1,0 +1,31 @@
+---
+layout: post
+title: "달무리 드리우다"
+img: Lunahalo.png # Add image post (optional)
+date: 2018-01-13
+description: # Add post description (optional)
+tag: [달무리 드리우다, Luna Halo, 끄적거림, scribbles]
+sitemap :
+  changefreq : weekly
+  priority : 1.0
+---
+> 달무리 드리우다
+<br/><br/>
+
+둥근달 떠 있을 걸 어찌 알고 바라보니<br/>
+달무리마저 드리워진 밤.
+   
+화사한 얼굴로 움츠린 어깻짓,<br/>
+감싸여 고인 눈물.
+   
+어쩌지 못해 움찔하고는<br/>
+나지막이 새 나오는 짤막한 한숨.
+   
+저만큼 멀찍이 돌아가서야<br/>
+도로 한참이나 머문 눈길.
+   
+밤새워 바라보기 매서운 날.<br/>
+   
+또다시 한 달 서른 날이 지나야 한다.
+<br/><br/><br/>
+이천십팔년일월 끝 무렵에 끄적거리다.
