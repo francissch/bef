@@ -96,7 +96,7 @@ hr {
  * 2. Correct the odd `em` font sizing in all browsers.
  */
 pre {
-  font-family: 'Noto Sans', 'Noto Sans KR', 'FontAwesome', monospace, monospace, sans-serif;
+  font-family:  'Nanum Gothic', 'Noto Sans', 'Noto Sans KR', 'FontAwesome', monospace, monospace, sans-serif;
   /* 1 */
   font-size: 1em;
   /* 2 */
@@ -151,7 +151,7 @@ strong {
 code,
 kbd,
 samp {
-  font-family: 'Noto Sans', 'Noto Sans KR', 'FontAwesome',  monospace, monospace, sans-serif;
+  font-family:  'Nanum Gothic', 'Noto Sans', 'Noto Sans KR', 'FontAwesome',  monospace, monospace, sans-serif;
   /* 1 */
   font-size: 1em;
   /* 2 */
@@ -242,7 +242,7 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: 'Noto Sans', 'Noto Sans KR', 'FontAwesome', sans-serif;
+  font-family:  'Nanum Gothic', 'Noto Sans', 'Noto Sans KR', 'FontAwesome', sans-serif;
   /* 1 */
   font-size: 100%;
   /* 1 */
@@ -3859,7 +3859,7 @@ template {
 }
 
 body {
-  font-family: 'Noto Sans', 'Noto Sans KR', 'FontAwesome', "Lato", sans-serif;
+  font-family:  'Nanum Gothic', 'Noto Sans', 'Noto Sans KR', 'FontAwesome', "Lato", sans-serif;
   -webkit-font-smoothing: antialiased;
   background-color: #262626;
   margin: 0;
