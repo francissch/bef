@@ -1,0 +1,11 @@
+---
+layout: post
+title: "그림자"
+img: 2019-01-05-그림자.png # Add image post (optional)
+date: 2019-01-05
+description: # Add post description (optional)
+tag: [그림자, 끄적거림, scribbles]
+sitemap :
+  changefreq : weekly
+  priority : 1.0
+---
