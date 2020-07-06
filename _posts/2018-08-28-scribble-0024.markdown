@@ -1,0 +1,11 @@
+---
+layout: post
+title: "달 그리고 얼굴"
+img: 2018-08-28-FullmoonYuNa.png # Add image post (optional)
+date: 2018-08-28
+description: # Add post description (optional)
+tag: [달, 얼굴, 끄적거림, scribbles]
+sitemap :
+  changefreq : weekly
+  priority : 1.0
+---
