@@ -1,0 +1,11 @@
+---
+layout: post
+title: "스치우는 바람"
+img: 2019-11-17-스치우는바람.png # Add image post (optional)
+date: 2019-11-17
+description: # Add post description (optional)
+tag: [바람, 끄적거림, scribbles]
+sitemap :
+  changefreq : weekly
+  priority : 1.0
+---
