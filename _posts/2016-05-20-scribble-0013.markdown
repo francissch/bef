@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "달의 여신 Luna"
-img: FullMoon-01.png # Add image post (optional)
+img: 2016-05-20-Luna.png # Add image post (optional)
 date: 2016-05-20
 description: # Add post description (optional)
 tag: [달의 여신 Luna, 끄적거림, scribbles]
@@ -9,23 +9,3 @@ sitemap :
   changefreq : weekly
   priority : 1.0
 ---
-> 달의 여신 Luna
-<br/><br/>
-
-하루가 넘어가는 어느 날<br/>
-맑은 밤하늘 가지 위에서 비추이는 얼굴.
-
-번민스러운 내 머리를<br/>
-은은한 빛줄기로 보다듬어 준다.
-
-여기저기 고루고루 비추거늘<br/>
-유독 내 혼자 호젓이 달가워하는 게야.
-
-그저 적당한 거리에서<br/>
-단 한 장의 엉뚱한 얼굴만 볼 수 있을 뿐인데 말이야.
-
-그래 그래도,<br/>
-一片의 그리울 가슴으로 바라볼 터이다.
-<br/><br/><br/>
-
-이천십육년오월이십일 새벽에.
