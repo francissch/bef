@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5-4"
-img: subway-01.png # Add image post (optional)
+img: 2013.09.09.5-4.png # Add image post (optional)
 date: 2013-09-09
 description: # Add post description (optional)
 tag: [5-4, 끄적거림, scribbles]
@@ -9,30 +9,3 @@ sitemap :
   changefreq : weekly
   priority : 1.0
 ---
-> 5-4
-<br/><br/>
-
-1992년, 시시로,<br/>
-아침 8시10분, 4호선 쌍문역 5-4에는 즐거운 기다림이 있었다.
-
-
-바라던 미소 머금은 얼굴이 들어선다.<br/>
-
-내가 서있던 자리를 내주고 멋쩍은 얘기를 꺼내는 사이에<br/>
-어느새 출근길 사람들로 가득 차 버린 5-4.
-
-버슨분홍빛과 살짝 맞닿아 있는 내내 <br/>
-바쁘게 뛰는 속내를 애써 가라앉히려<br/>
-객쩍은 이야기들만 뿌려댄다.<br/>
-그래도 환하게 웃는다.
-
-그러다가<br/>
-그이가 먼저 내린다 그 미소와 함께……<br/>
-그리고 은연히 남아 있는 체취.
-
-속으로 되뇌는 정녕 하고 싶은 말들……<br/>
-
-내일 오전 8시10분 4호선 쌍문역 5-4에서는……
-<br/><br/><br/>
-
-이천십삽년구월 어느 날 이십 년 전 기억의 단편을 끄집어내어본다.
