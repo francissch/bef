@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "사랑 LOVE"
-img: 2018-12-04-사랑.png, 2018-12-04-LOVE.png # Add image post (optional)
+img: 2018-12-04-사랑.png 2018-12-04-LOVE.png # Add image post (optional)
 date: 2018-12-04
 description: # Add post description (optional)
 tag: [사랑, LOVE, 끄적거림, scribbles]
