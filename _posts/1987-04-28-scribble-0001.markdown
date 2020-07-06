@@ -1,6 +1,8 @@
 ---
 layout: post
+title: "술 한 잔"
 img: 1987.04.28-Whiskey.png # Add image post (optional)
+date: 1987-04-28
 description: # Add post description (optional)
 tag: [끄적거림, scribbles, 술한잔]
 sitemap :
