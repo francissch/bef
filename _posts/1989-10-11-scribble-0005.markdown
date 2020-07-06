@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "무제"
-img: CigarBar-1-2-1.png # Add image post (optional)
+img: 1989.10.11-scribble.png # Add image post (optional)
 date: 1989-10-11
 description: # Add post description (optional)
 tag: [무제, 끄적거림, scribbles]
@@ -9,22 +9,3 @@ sitemap :
   changefreq : weekly
   priority : 1.0
 ---
-> 무제
-<br/><br/>
-
-어느 짙은 홍조 띤 시간의 문턱에서<br/>
-감히 당신의 이름에 찔려 흐르는 아픔도 모르고 사랑을 앓았습니다.
-   
-이리저리 휘도는 바람이 메워버린 눈물 같은 낙엽들로<br/>
-가을이 당신인지, 당신이 가을인지 몰라 폐허가 되어 버렸습니다.
-   
-줄곧 감추인 속내를 들키기 싫어서<br/>
-당신의 수줍은 고백에도 언뜻 무심한 얼굴빛으로 돌아섰습니다.
-   
-아주 빛 바랜 가을이 데려가 버린 당신의 이름.<br/>
-이제 평생을 혼자 거닐어도 좋을 마음으로만 남습니다.
-<br/><br/><br/>   
-   
-   
-첫 끄적거림 : 일천구백팔십구년 가을녘에……<br/>
-다시 끄적거림 : 이천십육년 오월에.
