@@ -1,0 +1,11 @@
+---
+layout: post
+title: "황진이"
+img: 2018-12-05-황진이.png # Add image post (optional)
+date: 2018-12-05
+description: # Add post description (optional)
+tag: [황진이, 끄적거림, scribbles]
+sitemap :
+  changefreq : weekly
+  priority : 1.0
+---
