@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "노을"
+title: "노을, 재회"
 img: 2018-07-21-노을재회.png # Add image post (optional)
 date: 2018-07-21
 description: # Add post description (optional)
