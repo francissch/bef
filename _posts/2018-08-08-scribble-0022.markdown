@@ -1,0 +1,11 @@
+---
+layout: post
+title: "같은곳, 다른것들"
+img: 2018-08-08-같은곳다른것들.png # Add image post (optional)
+date: 2018-08-08
+description: # Add post description (optional)
+tag: [같은곳, 다른것들, 끄적거림, scribbles]
+sitemap :
+  changefreq : weekly
+  priority : 1.0
+---
