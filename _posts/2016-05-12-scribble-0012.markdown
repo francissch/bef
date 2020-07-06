@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "시간에 안겨서......"
-img: grandfather-clock.png # Add image post (optional)
+img: 2016-05-12.png # Add image post (optional)
 date: 2016-05-12
 description: # Add post description (optional)
 tag: [시간에 안겨서, 끄적거림, scribbles]
@@ -9,27 +9,3 @@ sitemap :
   changefreq : weekly
   priority : 1.0
 ---
-> 시간에 안겨서......
-<br/><br/>
-
-내 앞에서는 청초하게 다소곳이 있던 시간.<br/>
-
-잠시 고갯짓이라도 하고 나면<br/>
-십 년, 이십 년 그리고<br/>
-어느새 오십 년을 먹어버린다.
-
-시간에 안겨서<br/>
-그렇게 빨리도 비워 버리는 것을 채 알기도 전에<br/>
-여기에 와 있다.
-
-하지만,<br/>
-지금 여기도<br/>
-또 그렇게 지나가고 있는 걸……
-
-시간아, 잠시 쉬어가려무나.<br/>
-
-아니면,<br/>
-조금 더딘 걸음으로 가자꾸나
-<br/><br/><br/>
-
-이천십육년오월십이일에 끄적거리다.
