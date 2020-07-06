@@ -1,0 +1,11 @@
+---
+layout: post
+title: "엉킨 실타래"
+img: 2018-12-01-엉킨실타래.png # Add image post (optional)
+date: 2018-12-01
+description: # Add post description (optional)
+tag: [엉킨실타래, 마음, 끄적거림, scribbles]
+sitemap :
+  changefreq : weekly
+  priority : 1.0
+---
