@@ -1,0 +1,11 @@
+---
+layout: post
+title: "맘"
+img: 2018-11-25-맘.png # Add image post (optional)
+date: 2018-11-25
+description: # Add post description (optional)
+tag: [맘, 마음, 끄적거림, scribbles]
+sitemap :
+  changefreq : weekly
+  priority : 1.0
+---
