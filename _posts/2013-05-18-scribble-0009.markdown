@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "잔소리"
-img: Herzog-5.jpg # Add image post (optional)
+img: 2013.05.18-scribble-0009.png # Add image post (optional)
 date: 2013-05-18
 description: # Add post description (optional)
 tag: [잔소리, 끄적거림, scribbles]
@@ -9,31 +9,3 @@ sitemap :
   changefreq : weekly
   priority : 1.0
 ---
-> 잔소리
-<br/>
-
-걱정의 잔소리를 뒤로하고<br/>
-흠칫하며 내딛는 무지근한 걸음...
-
-그저 씁쓸한 웃음만이 머물다 사라진다.<br/>
-
-언제부터인가 다물려진 입이 익숙하다.<br/>
-어떤 이야기들이 흘러도 그저 끄덕거리는 고갯짓.
-
-돌이켜 보면 어그러진 이야기 하나 없는데<br/>
-마음속에선 마냥 가로짓는 고갯짓들.
-
-어마니의 마음 고스란히 받아들이지 못하고<br/>
-애써 맞서는 고약한 속내는 그슬린다.
-
-여지껏의 꾸지람이 그 삶의 열매임을 이제 알건만.<br/>
-
-동그랗게 말아 올라가던 연기가<br/>
-미친 듯이 요동을 치며 흩어진다.
-
-그 뒤로 보이는 머언 푸르름은<br/>
-눈물처럼 번져 간다.
-<br/><br/><br/>
-
-
-끄적거림들 중에서......
