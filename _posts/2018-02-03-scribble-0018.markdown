@@ -1,0 +1,11 @@
+---
+layout: post
+title: "오면가면"
+img: 2018-02-03-오면가면.png # Add image post (optional)
+date: 2018-02-03
+description: # Add post description (optional)
+tag: [오면가면, 끄적거림, scribbles]
+sitemap :
+  changefreq : weekly
+  priority : 1.0
+---
